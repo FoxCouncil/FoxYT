@@ -1,0 +1,24 @@
+{
+  "name": "foxyt",
+  "version": "1.0.0",
+  "description": "Fox them all!",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FoxCouncil/FoxYT.git"
+  },
+  "author": "Fox",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FoxCouncil/FoxYT/issues"
+  },
+  "homepage": "https://github.com/FoxCouncil/FoxYT#readme",
+  "dependencies": {
+    "fastify": "^4.24.3",
+    "yt-dlp-wrap": "^2.3.12"
+  }
+}
